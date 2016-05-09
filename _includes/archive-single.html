@@ -13,7 +13,7 @@
     <a href="{{ base_path }}{{ post.url }}">
   {% endif %}
     <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-      {% if include.type == "list" and teaser != blank %}
+      {% if include.type == "grid" and teaser != blank %}
         <div class="archive__item-teaser">
           <img src=
             {% if teaser contains "http" %}
