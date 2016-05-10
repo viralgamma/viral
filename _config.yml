@@ -55,8 +55,8 @@ analytics:
     tracking_id          :
 
 # Google AdSense
-google_ad_client         :
-google_ad_slot           :
+google_ad_client         : "ca-pub-6686018124311308"
+google_ad_slot           : "8019259675"
 
 
 # Site Author
