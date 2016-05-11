@@ -62,9 +62,9 @@ google_ad_slot           :
 # Site Author
 author:
   name             : "ViralGamma.com"
-  avatar           : "viralgamma-logo.jpg"
-  bio              : "Going Viral"
-  location         : "US"
+  avatar           : "viralgamma-logo-min.jpg"
+  bio              : 
+  location         : 
   email            :
   uri              :
   bitbucket        :
